@@ -31,8 +31,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://www.youtube.com/watch?v=8YalCaB4bb8' title='WEB102 Prework - Sea Monster Crowdfunding
-' width='' alt='Video Walkthrough' />
+[![WEB102 Prework - Sea Monster Crowdfunding](https://img.youtube.com/vi/8YalCaB4bb8/0.jpg)](https://www.youtube.com/watch?v=8YalCaB4bb8 "WEB102 Prework - Sea Monster Crowdfunding")
+
 
 
 Video recorded with Streamlabs OBS
